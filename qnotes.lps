@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="qnotes.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="30"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="src/basesrv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="15" Y="29"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="src/qnotessrv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="63"/>
+        <CursorPos X="17" Y="77"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="src/mobiledm.pas"/>
+        <ComponentName Value="dmMobile"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="4" Y="54"/>
+        <UsageCount Value="21"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/lib/fpc/src/packages/fcl-json/src/fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="818"/>
+        <CursorPos X="10" Y="756"/>
+        <UsageCount Value="12"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="77" TopLine="66"/>
+      </Position1>
+      <Position2>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="78" TopLine="66"/>
+      </Position2>
+      <Position3>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="93" TopLine="73"/>
+      </Position3>
+      <Position4>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="73" TopLine="60"/>
+      </Position4>
+      <Position5>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="76" TopLine="60"/>
+      </Position5>
+      <Position6>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="77" TopLine="60"/>
+      </Position6>
+      <Position7>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="89" Column="7" TopLine="69"/>
+      </Position7>
+      <Position8>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="86" TopLine="78"/>
+      </Position8>
+      <Position9>
+        <Filename Value="src/basesrv.pas"/>
+        <Caret Line="29" Column="20" TopLine="16"/>
+      </Position9>
+      <Position10>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="78" Column="71" TopLine="66"/>
+      </Position10>
+      <Position11>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="79" Column="11" TopLine="65"/>
+      </Position11>
+      <Position12>
+        <Filename Value="src/basesrv.pas"/>
+        <Caret Line="29" Column="15" TopLine="16"/>
+      </Position12>
+      <Position13>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="79" Column="11" TopLine="65"/>
+      </Position13>
+      <Position14>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="17" Column="14" TopLine="4"/>
+      </Position14>
+      <Position15>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="38" Column="6" TopLine="31"/>
+      </Position15>
+      <Position16>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="23" Column="19" TopLine="17"/>
+      </Position16>
+      <Position17>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="79" TopLine="68"/>
+      </Position17>
+      <Position18>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="17" Column="14" TopLine="4"/>
+      </Position18>
+      <Position19>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="38" Column="44" TopLine="31"/>
+      </Position19>
+      <Position20>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="86" TopLine="77"/>
+      </Position20>
+      <Position21>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="24" Column="11" TopLine="9"/>
+      </Position21>
+      <Position22>
+        <Filename Value="qnotes.lpr"/>
+        <Caret Line="4" TopLine="13"/>
+      </Position22>
+      <Position23>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="145" Column="5" TopLine="119"/>
+      </Position23>
+      <Position24>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="17" Column="15" TopLine="5"/>
+      </Position24>
+      <Position25>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="41" Column="43" TopLine="48"/>
+      </Position25>
+      <Position26>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="116" TopLine="106"/>
+      </Position26>
+      <Position27>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="126" TopLine="119"/>
+      </Position27>
+      <Position28>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="111" Column="49" TopLine="103"/>
+      </Position28>
+      <Position29>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="23" TopLine="17"/>
+      </Position29>
+      <Position30>
+        <Filename Value="src/qnotessrv.pas"/>
+        <Caret Line="128" TopLine="106"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
